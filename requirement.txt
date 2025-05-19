@@ -1,3 +1,5 @@
 dotenv
-openai
-chromadb
+langchain
+langchain-community
+langchain_huggingface
+faiss-cpu
